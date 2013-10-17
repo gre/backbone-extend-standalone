@@ -1,0 +1,21 @@
+{
+  "name": "backbone-extend-standalone",
+  "description": "Standalone version of Backbone's extend",
+  "version": "0.1.0",
+  "author": "Gaetan Renaudeau <renaudeau.gaetan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/backbone-extend-standalone.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "backbone",
+    "extend"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "2.x",
+    "grunt": "0.4.x",
+    "grunt-contrib-uglify": "0.2.x"
+  }
+}

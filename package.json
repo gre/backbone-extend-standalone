@@ -12,6 +12,7 @@
     "backbone",
     "extend"
   ],
+  "main": "./backbone-extend-standalone.js",
   "dependencies": {},
   "devDependencies": {
     "jshint": "2.x",

@@ -1,4 +1,3 @@
-
 (function (definition) {
   if (typeof exports === "object") {
     module.exports = definition();
@@ -15,7 +14,7 @@
   // mini-underscore
   var _ = {
     has: function (obj, key) {
-      Object.prototype.hasOwnProperty.call(obj, key);
+      return Object.prototype.hasOwnProperty.call(obj, key);
     },
   
     extend: function(obj) {

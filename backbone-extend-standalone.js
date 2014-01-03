@@ -2,13 +2,13 @@
   if (typeof exports === "object") {
     module.exports = definition();
   }
-  else if (typeof define === 'function' && define.amd){
+  else if (typeof define === 'function' && define.amd) {
     define(definition);
   }
   else {
     window.BackboneExtend = definition();
   }
-})(function (Q) {
+})(function () {
   "use strict";
   
   // mini-underscore

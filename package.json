@@ -1,7 +1,7 @@
 {
   "name": "backbone-extend-standalone",
   "description": "Standalone version of Backbone's extend",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Gaetan Renaudeau <renaudeau.gaetan@gmail.com>",
   "repository": {
     "type": "git",
